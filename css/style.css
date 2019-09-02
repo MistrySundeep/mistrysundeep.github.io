@@ -10,15 +10,7 @@ body{
   background-color: #a6bed6;
 }
 
-#blog{
-  overflow: auto;
-  min-height: 300px;
-  width: 100%;
-  display: block;
-  background-color: #a6bed6;
-}
-
-#myWork{
+#links{
   overflow: auto;
   min-height: 300px;
   width: 100%;
@@ -43,4 +35,8 @@ body{
 .sectionText{
   font-size: 25px;
   text-align: center;
+}
+
+.footer{
+  background-color: #e9ecef;
 }
