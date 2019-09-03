@@ -10,7 +10,15 @@ body{
   background-color: #a6bed6;
 }
 
-#links{
+#myWork{
+  overflow: auto;
+  min-height: 300px;
+  width: 100%;
+  display: block;
+  background-color: #a6bed6;
+}
+
+#social{
   overflow: auto;
   min-height: 300px;
   width: 100%;
@@ -38,6 +46,6 @@ body{
 
 #bottom{
   text-align: center;
-  background-color: #a6bed6;
+  background-color:#e9ecef;
 
 }
