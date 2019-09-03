@@ -21,8 +21,7 @@ body{
 #jumbo{
   margin: 0;
   padding-bottom: 2rem;
-  padding-top: 2rem;
-  min-height: 600px;
+  min-height: 700px;
   width: 100%;
   text-align: center;
   padding-top: 250px;
@@ -37,6 +36,8 @@ body{
   text-align: center;
 }
 
-.footer{
-  background-color: #e9ecef;
+#bottom{
+  text-align: center;
+  background-color: #a6bed6;
+
 }
