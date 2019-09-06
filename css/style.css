@@ -20,7 +20,7 @@ body{
 
 #social{
   overflow: auto;
-  min-height: 300px;
+  min-height: 100px;
   width: 100%;
   display: block;
   background-color: #a6bed6;
@@ -48,4 +48,14 @@ body{
   text-align: center;
   background-color:#e9ecef;
 
+}
+
+img{
+  height: 80px;
+  width: 80px;
+  margin-left: 35px;
+}
+
+.imgSection a a:hover{
+  text-decoration: none;
 }
